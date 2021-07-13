@@ -18,3 +18,10 @@ const Container = styled.section`
 
 
 export default Header
+
+
+
+
+// 1) subscribe
+// 2) history
+// 3) Signin
