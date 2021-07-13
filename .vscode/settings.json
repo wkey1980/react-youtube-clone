@@ -2,11 +2,21 @@
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
     "eslint.validate": [
         "javascript"
     ],
     "cSpell.words": [
+        "browserslist",
         "noopener",
-        "noreferrer"
-        ]
+        "noreferrer",
+        "youtube"
+    ],
+
+
+
+
+    "emmet.triggerExpansionOnTab": true
 }
