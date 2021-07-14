@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components';
 
-import SidebarNavigation from './SidebarNavigation';
+import Sidebar from './Sidebar';
 import Header from './Header'
 import Main from './Main'
 
@@ -11,7 +11,7 @@ const Layouts = () => {
     return (
         <Container>
             <div className="header"><Header /></div>
-            <div className="side"><SidebarNavigation /></div>
+            <div className="side"><Sidebar /></div>
             <div className="main"><Main /></div>
         </Container>
     )
